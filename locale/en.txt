@@ -1,0 +1,22 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_1743EA4B_35EC_2F80_41C0_7B06C47489BA.label = ENTRY
+panorama_17436873_35EC_2B80_41B8_6AEB1F3F1E57.label = LOCKER
+panorama_17432F9B_35EC_2487_41C7_4580AC0BA0F4.label = PH901
+panorama_174346DF_35EC_E480_4198_B16FF670F779.label = PH902
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = test
